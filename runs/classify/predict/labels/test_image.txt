@@ -1,0 +1,4 @@
+0.52 glioma
+0.46 notumor
+0.02 meningioma
+0.00 pituitary
